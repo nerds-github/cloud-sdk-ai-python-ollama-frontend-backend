@@ -48,7 +48,7 @@ jsonpointer==3.0.0
 kubernetes==30.1.0
 langchain==0.2.14
 langchain-chroma==0.1.2
-langchain-community==0.2.12
+langchain-community==0.3.0
 langchain-core==0.2.33
 langchain-openai==0.1.22
 langchain-text-splitters==0.2.2
